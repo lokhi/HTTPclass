@@ -1,0 +1,4 @@
+== Premier test RSPEC
+
+Pour lancer les tests:
+  rspec spec/*

@@ -1,4 +1,4 @@
-== Premier test RSPEC
+== Premier test RSPEC pour la classe HTTP perso
 
 Pour lancer les tests:
   rspec spec/*
